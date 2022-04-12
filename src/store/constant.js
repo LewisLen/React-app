@@ -1,0 +1,5 @@
+// 常量命名
+
+export const INCREMENTVALUE = 'INCREMENTVALUE';
+export const DECREMENTVALUE = 'DECREMENTVALUE';
+export const ADDBOOK = 'ADDBOOK';
